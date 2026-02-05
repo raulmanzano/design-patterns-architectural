@@ -45,7 +45,7 @@
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
         
-        <assertj-core.version>3.9.1</assertj-core.version>
+        <assertj-core.version>3.27.7</assertj-core.version>
         
         <javaee.version>8.0</javaee.version>
         <hibernate-core.version>5.2.16.Final</hibernate-core.version>
